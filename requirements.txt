@@ -9,5 +9,6 @@ matplotlib == 3.9.2
 seaborn == 0.13.2
 
 # Machine Learning
+imbalanced-learn == 0.13.0
 scikit-learn == 1.5.2
 xgboost == 2.1.1
