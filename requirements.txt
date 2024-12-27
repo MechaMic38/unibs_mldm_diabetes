@@ -7,8 +7,13 @@ scipy == 1.14.1
 graphviz == 0.20.3
 matplotlib == 3.9.2
 seaborn == 0.13.2
+plotly
+nbformat
 
 # Machine Learning
 imbalanced-learn == 0.13.0
 scikit-learn == 1.5.2
 xgboost == 2.1.1
+
+# Optuna
+optuna == 4.1.0
