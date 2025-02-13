@@ -172,3 +172,5 @@ optuna/*
 # Models
 models/*
 !models/.gitkeep
+
+catboost_info/*
